@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.9) # CMP0069 NEW
 
-project(simdjson
-  DESCRIPTION "simdjson demo"
+project(cppsubmodule
+  DESCRIPTION "cppsubmodule demo"
   LANGUAGES CXX 
 )
 
