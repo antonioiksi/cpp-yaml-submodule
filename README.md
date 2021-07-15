@@ -9,7 +9,7 @@ rm -rf build && mkdir build && cd build && cmake .. && cmake --build .
 ```sh
 git submodule add --branch master --name yaml-cpp git@github.com:jbeder/yaml-cpp.git ext/yaml-cpp
 
-git submodule set-branch --branch yaml-cpp-0.7.0 ext/yaml-cpp
+git submodule set-branch --branch yaml-cpp-0.7.0 yaml-cpp
 
 
 
